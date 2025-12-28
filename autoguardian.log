@@ -1,0 +1,19 @@
+2025-07-19 01:41:57,070 - INFO -  CPU Alert: 8.0%| Top process --> ID: 2512 | NAME: python.exe | CPU: (5.22%) 
+2025-07-19 01:44:26,448 - INFO -  CPU Alert: 7.2%| Top process --> ID: 9772 | NAME: python.exe | CPU: (4.08%) 
+2025-07-19 02:05:42,574 - INFO -  CPU Alert: 8.3%| Top process --> ID: 14936 | NAME: python.exe | CPU: (3.58%) 
+2025-07-19 02:08:08,408 - WARNING - Battery at 100%. Please plug in.
+2025-07-19 02:46:22,466 - INFO -  CPU Alert: 9.1%| Top process --> ID: 3672 | NAME: python.exe | CPU: (5.21%) 
+2025-07-19 05:03:26,075 - WARNING -  CRITICAL CPU Alert: 7.9%
+| Top process --> ID: 2424 | NAME: python.exe | CPU: (5.36%) 
+2025-07-19 05:05:35,837 - WARNING -  CRITICAL CPU Alert: 5.4%
+| Top process --> ID: 1400 | NAME: python.exe | CPU: (5.54%) 
+2025-07-19 05:09:17,756 - WARNING -  CRITICAL CPU Alert: 10.0%| Top process --> ID: 16072 | NAME: python.exe | CPU: (3.58%) 
+2025-07-19 05:13:44,125 - WARNING -  CRITICAL CPU Alert: 9.8%| Top process --> ID: 8316 | NAME: python.exe | CPU: (4.21%) 
+2025-07-19 05:13:46,747 - INFO - Email Failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23e3b6d2a8dsm19001485ad.165 - gsmtp')
+2025-07-19 05:16:07,145 - WARNING -  CRITICAL CPU Alert: 7.2%| Top process --> ID: 13276 | NAME: python.exe | CPU: (3.71%) 
+2025-07-19 05:16:09,962 - INFO - Email Failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b3f2fe62eb0sm1769631a12.6 - gsmtp')
+2025-07-19 05:24:00,659 - WARNING -  CRITICAL CPU Alert: 11.9%
+| Top process --> ID: 7136 | NAME: python.exe | CPU: (4.34%) 
+2025-07-19 05:24:03,520 - INFO - Email Failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-759cb157635sm1878508b3a.83 - gsmtp')
+2025-07-19 05:28:08,861 - WARNING - CRITICAL: Battery at 99%. Please plug in.
+2025-07-19 05:28:11,411 - INFO - Email Failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23e3b6b4a9esm19079425ad.93 - gsmtp')

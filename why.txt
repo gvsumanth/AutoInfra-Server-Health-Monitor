@@ -1,0 +1,4 @@
+1) battery low tkinter popup
+*windows does show popup, but only at critical battery, and also the system goes to hibernate.(at fullscreen)
+** we are showing popup, and not making the system go to hibernate
+2) we display app name and its cpu usage when it spikes above threshold
